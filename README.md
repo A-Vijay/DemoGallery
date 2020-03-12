@@ -1,5 +1,5 @@
 ### Read Me
 
 ##### Requirement
-- Swift 5.2 
+- Swift 5
 - Xcode 11.3
